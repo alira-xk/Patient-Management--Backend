@@ -50,7 +50,9 @@ npm install
 Create a .env file and configure the following:
 
 PORT=5000
+
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_secret_key
 
 Run the server:
